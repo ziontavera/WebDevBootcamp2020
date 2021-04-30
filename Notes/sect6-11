@@ -1,0 +1,30 @@
+
+
+Daily REport:
+
+1. Progress:
+Scrum meeting with Maam Aubrey
+Introduced next training agenda: 
+	-Advanced Javascript (section 23-25 of Web developer Bootcamp)
+Finish Web developer bootcamp section 6-11
+	-HTML/CSS Basics(Colors, Fonts, Styles, Selectors, classes, pseudo classes, Flexbox)
+Currently on the last section, section 12: Bootstrap
+Made a Website based on bootcamp section 6-9(Photo Blog)
+	
+	
+
+2.Problem:
+-NA
+
+Learnings:
+1. Inline styles are practice, use external stylesheets
+	-connect html and css with <link>
+2. Never forget semicolons in stylesheets
+3. .-class selector ; # - id selector
+4. inline, block, inline-block properties
+5. Discovered Coolers.co (handy color pallates for designers)
+6. Transitions
+	-margins, transform colors, hover effects
+7. Flexbox allows the distribution of space dynamically accross elements in a website of an unknown size
+8. Bootstrap
+	-most popular framework for building responsive websites.

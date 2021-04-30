@@ -1,0 +1,115 @@
+sector 24
+
+getElementById
+-returns an HTML collection with the specified ID in the document
+getELementsByTagName
+-returns an HTML collection with specified Tag Name in the document
+getElementsByClassName
+-returns an HTML collection with specified Class Name in the document
+querySelector
+-all-in-one method to select a single element in the document
+querySelectorALl
+-does exact same thing as querySeletor but returns a "collection" of matching elements
+innerText vs TextContent
+-Text Content returns every element in the node/area.
+-innerText is aware of styling and wont return the text of hidden elements
+innerHTML
+-gets all the HTML markups included in the element
+classList
+-groups classes in  an element which makes it easier to add/remove new classes and/or to toggle them
+Traversing Parent/Child/Sibling
+-Basically helps with navigating elements throughout the document.
+Append/AppendChild
+-Append inserts something at the end inside of an element.
+-AppendChild inserts something at the end inside of an object
+-Append can have multiple entries while AppendChild can only append one object
+insertAdjacentElement
+-inserts a given element node at a given position
+-positions:
+1.beforebegin - before the targetElement itself
+2.afterbegin - inside the targetElement but before its first child.
+3.beforeend - inside the targetElement but after its last child.
+4.afterend - after the targetElement itself.
+addEventListener
+-sets up a function to be called whenever an event takes place
+Keyboard Events
+-records events in the keyboard
+-".key" records what key was pressed, ".code" records the location of the key that was pressed
+Form Objects
+-handy way of accessing data through form objects.
+PreventDefault
+-prevents requests to be made after being submitted. Keeps data on the same page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Progress:
+-Just finished Advanced Javascript All sections(23-25)
+-Starting React JS course section 1 - 14
+	-File Structure, Props, State, Componenent, Lifecycle, Event Handling, Hooks
+
+
+2. Problems:
+-NA
+
+3. Tomorrow's Plans:
+-Continue with React JS course
+
+
+4. Learnings/Realizations:
+-getElementById
+	-returns an HTML collection with the specified ID in the document
+-getELementsByTagName
+	-returns an HTML collection with specified Tag Name in the document
+-getElementsByClassName
+	-returns an HTML collection with specified Class Name in the document
+-querySelector
+	-all-in-one method to select a single element in the document
+-querySelectorALl
+	-does exact same thing as querySeletor but returns a "collection" of matching elements
+-innerText vs TextContent
+	-Text Content returns every element in the node/area.
+	-innerText is aware of styling and wont return the text of hidden elements
+-innerHTML
+	-gets all the HTML markups included in the element
+-classList
+	-groups classes in  an element which makes it easier to add/remove new classes and/or to toggle them
+-Traversing Parent/Child/Sibling
+	-Basically helps with navigating elements throughout the document.
+-Append/AppendChild
+	-Append inserts something at the end inside of an element.
+	-AppendChild inserts something at the end inside of an object
+	-Append can have multiple entries while AppendChild can only append one object
+-insertAdjacentElement
+	-inserts a given element node at a given position
+	-positions:
+		1.beforebegin - before the targetElement itself
+		2.afterbegin - inside the targetElement but before its first child.
+		3.beforeend - inside the targetElement but after its last child.
+		4.afterend - after the targetElement itself.
+-addEventListener
+	-sets up a function to be called whenever an event takes place
+-Keyboard Events
+	-records events in the keyboard
+	-".key" records what key was pressed, ".code" records the location of the key that was pressed
+-Form Objects
+	-handy way of accessing data through form objects.
+-PreventDefault
+	-prevents requests to be made after being submitted. Keeps data on the same page.
+
+
+
+
+
+
+
+

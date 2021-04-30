@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marathon Registration</title>
+</head>
+<h1>Registration</h1>
+<form action="/registered">
+    <div>
+        <label for="firstName">Enter First Name: </label>
+        <input type="text" name="first" id="firstName" required>
+        <label for="lastName">Enter Last Name: </label>
+        <input type="text" name="last" id="lastName" required>
+    </div>
+
+    <div>
+
+        <label>Select Race: </label>
+        <br>
+        <label for="1k">1k</label>
+        <input type="radio" name="type" id="1k" value="1k" required>
+        <label for="3k">3k</label>
+        <input type="radio" name="type" id="3k" value="3k" required>
+        <label for="5k">5k</label>
+        <input type="radio" name="type" id="5k" value="5k" required>
+        <label for="10k">10k</label>
+        <input type="radio" name="type" id="10k" value="10k" required>
+    </div>
+
+    <div>
+        <label for="email">Enter Email: </label>
+        <input type="email" name="email" id="email" required>
+        <br>
+        <br>
+        <label for="password">Enter Password: </label>
+        <input type="password" name="password" id="password" minlength="8" maxlength="16" required>
+    </div>
+
+
+    <div>
+        <label for="age_group">Select Age Group: </label>
+        <p>
+            <select name="age" id="age_group">
+                <option value="">Choose group</option>
+                <option value="under18">Under 18</option>
+                <option value="under23">Under 23</option>
+                <option value="under30">Under 30</option>
+                <option value="30above">30 Above</option>
+            </select>
+        </p>
+    </div>
+    <button>Submit</button>
+</form>
+
+<body>
+
+</body>
+
+</html>

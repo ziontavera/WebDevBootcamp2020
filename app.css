@@ -1,0 +1,89 @@
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    transition: 1s;
+
+}
+
+.circle:hover{
+    background-color: orange;
+    border-radius: 50%;
+}
+
+section div{
+    height: 100px;
+    width: 100px;
+    background-color: turquoise;
+    margin: 20px 0;
+    transition: margin-left 3s;
+}
+
+section:hover div{
+    margin-left: 500px;
+}
+
+
+
+
+
+/*
+h1{
+    color: black;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: orange underline wavy;
+    letter-spacing: 10px;
+    font-size: 75px;
+    font-family: Arial;
+}
+h2{
+    color: indigo;
+    text-align: right;
+}
+h3{
+    color: fuchsia;
+    text-align: left;
+}
+
+button{
+    color: skyblue;
+    background-color: grey;
+    text-align: end;
+}
+
+#submit:hover{
+    color: #1d3557;
+    background-color: red;
+}
+
+a:hover{
+    color:blue;
+    text-decoration: underline;
+}
+
+button:hover{
+
+    background-color: red;
+}
+
+button:active{
+    background-color: purple;
+}
+
+h2::first-letter{
+    color: green;
+}
+
+p::selection{
+    background-color: burlywood;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    border: 10px solid black;
+    display: inline-block;
+
+}

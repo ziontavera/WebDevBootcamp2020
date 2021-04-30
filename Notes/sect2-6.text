@@ -1,0 +1,48 @@
+The internet in 5 mins
+- a global network of networks
+
+Intro to the Web
+- information  system to share resources
+
+HTML (Hyper Text markup language)
+- The content
+CSS
+- styles of the content; designs, describes content
+
+Javascript
+- put actions into the content 
+
+MDN Mozilla Developer Network
+
+HTMl 5
+- lastes evolution of the standard that describes html
+
+Div (Content Division element)
+- generic container for flow content. No effect shown until styled using CSS
+-a block element
+Span
+- generic inline container for phrasing content. Can be styled using CSS
+- an inline element
+
+hr (horizontal rule)
+- represents a thematic break between paragraph-level elements
+
+br element
+-  produces a line break in text.
+
+Semantics:
+section
+article
+main
+nav
+header
+footer
+data
+abreviation
+aside
+summary
+details
+figure
+
+
+

@@ -1,0 +1,42 @@
+1.Progress:
+- Refresher course on Basic Javascript Section 14-21:
+	-Syntaxes, Arrays, Loops, Condition statements, Functions
+- Started with Advanced Javascript course (Section 23-25)
+	-DOM,Parameters(REST), Destructuring
+-Currently on the 2nd to the last section: 24
+	-Plan to finish all sections before 10pm
+
+
+2.Problem:
+-NA
+
+
+
+3.Tomorrow's Plan:
+-Review yesterday's progress
+-Read clean-code-javascript by Ryan Mcdermott
+-Start learning React JS
+
+
+
+4.Learnings/Realizations:
+
+- Push/Pop & Shift/Unshift;
+- Refreshed memory with Objects and Classes
+- For..of & For.. in Loops
+	-handy way of iterating through objects, arrays, and strings
+- Function Scopes and Block Scopes (var vs let)
+- Default parameters help make a clean code
+- Tips and Tricks
+	Spread(Arrys, string, and Objects)
+- REST parameters
+ 	-Like spread but not exactly
+ 		-Spread allows the expanding of an array or iterable into seperate arguments
+ 		-while REST Params allows a function to accept multiple arguments as an array
+ 	-Argument Object doesnt work with arrow functions so Rest parameters come in handy
+ -Destructuring
+ 	-Efficient approach for accessing data in Arrays, Objects, and Parameters
+ -DOM (Document Object Model)
+	-Document method getElementByID
+		-returns an element object with the specified ID 
+
